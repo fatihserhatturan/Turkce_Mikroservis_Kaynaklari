@@ -27,10 +27,10 @@ Mikroservis mimarisi üzerine derlenmiş kapsamlı Türkçe kaynak koleksiyonu.
 
 | Konu Başlığı | Yazı Başlığı | Yazar | Makale Linki |
 |--------------|--------------|-------|--------------|
-| **API Gateway** | API Gateway Nedir? Neden Kullanılır? | Uçem Uçar | [🔗 Makaleyi Oku](https://ucemucar.medium.com/api-gateway-nedir-neden-kullan%C4%B1l%C4%B1r-fadcb45d11fb) |
+| **API Gateway** | API Gateway Nedir? Neden Kullanılır? | Uğur Cem Uçar | [🔗 Makaleyi Oku](https://ucemucar.medium.com/api-gateway-nedir-neden-kullan%C4%B1l%C4%B1r-fadcb45d11fb) |
 | **Service Mesh** | Mikroservisler - Service Mesh Nedir | Mehmet Cem Yücel | [🔗 Makaleyi Oku](https://medium.com/mehmetcemyucel/mikroservisler-service-mesh-nedir-4db051467a72) |
 | **Saga Pattern** | SAGA Pattern Nedir? | Şefikcan Kanber | [🔗 Makaleyi Oku](https://sefikcankanber.medium.com/saga-pattern-nedir-e4a447bef361) |
-| **İzlenebilirlik** | Microservices Nedir? (Logging, Monitoring, Tracing) | - | [🔗 Makaleyi Oku](https://medium.com/architectural-patterns/microservice-nedir-73bdfddad197) |
+| **İzlenebilirlik** | Microservices Nedir? (Logging, Monitoring, Tracing) | Onur Dayıbaşı | [🔗 Makaleyi Oku](https://medium.com/architectural-patterns/microservice-nedir-73bdfddad197) |
 
 ---
 
